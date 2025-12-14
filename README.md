@@ -117,9 +117,6 @@ Travel-Management-System/
 
 ---
 
-## Screenshots
-
-*Add screenshots of the application UI here (Splash Screen, Login, Dashboard, Booking pages, etc.)*
 
 ---
 
